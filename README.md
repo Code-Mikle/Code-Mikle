@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 📚 学习领域：计算机科学、机器学习、人工智能。
 - 💼 目前工作：探索深度学习在图像识别中的应用。
-- 🌍 爱好：阅读科技博客、参加黑客马拉松、旅行。
+- 🌍 爱好：阅读、跑步、旅行。
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](https://twitter.com/your-profile)
@@ -36,12 +36,6 @@ Here are some ideas to get you started:
 
 一个动手实践深度学习技术的系列教程，包括全连接网络、卷积神经网络、循环神经网络等。
 
-### CIFAR-10 Classification with Different Architectures
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/Code-Mikle/cifar10-classification)](https://github.com/Code-Mikle/cifar10-classification)
-
-使用不同的神经网络架构（如CNN、RNN）对CIFAR-10数据集进行分类的实验。
-
 ## 技能栈
 
 我熟悉的技术栈包括但不限于：
@@ -50,14 +44,3 @@ Here are some ideas to get you started:
 - 工具与框架：TensorFlow, PyTorch, Spring Boot
 - 数据库：MySQL, MongoDB
 - 其他：Git, Docker, Kubernetes
-
-## 联系方式
-
-如果有任何合作或者交流的机会，请随时联系我！
-
-- Email: example@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-
----
-
-感谢访问我的 GitHub 页面！希望我们能有合作的机会！
