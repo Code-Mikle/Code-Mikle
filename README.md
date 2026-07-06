@@ -23,16 +23,15 @@ Here are some ideas to get you started:
 - 💼 目前工作：探索深度学习在图像识别中的应用。
 - 🌍 爱好：阅读、跑步、旅行。
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](https://twitter.com/your-profile)
-
 ## 我的项目
 
-这里是一些我最近参与或主导的项目：
+这里是一些我最近做的项目：
 
-### Deep Learning Hands-On Program
+### [Zero Logic](https://github.com/Code-Mikle/zero-logic)
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/Code-Mikle/deep-learning-hands-on-program?style=social)](https://github.com/Code-Mikle/deep-learning-hands-on-program)
+基于 RAG、工作流编排、构建检查和版本化预览部署的 AI 前端应用生成 Agentic Coding 平台。
+
+### [Deep Learning Hands-On Program](https://github.com/Code-Mikle/deep-learning-hands-on-program)
 
 一个动手实践深度学习技术的系列教程，包括全连接网络、卷积神经网络、循环神经网络等。
 
@@ -41,6 +40,6 @@ Here are some ideas to get you started:
 我熟悉的技术栈包括但不限于：
 
 - 编程语言：Python, Java, C++
-- 工具与框架：TensorFlow, PyTorch, Spring Boot
-- 数据库：MySQL, MongoDB
-- 其他：Git, Docker, Kubernetes
+- 工具与框架：TensorFlow, PyTorch, Spring Boot, LangChain4j, LangGraph4j
+- 数据库：MySQL, Redis
+- 其他：Git, Docker
